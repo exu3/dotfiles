@@ -1,0 +1,25 @@
+{
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
+    "git.autofetch": true,
+    "workbench.colorTheme": "🏴 blackbird → dusk",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "sqltools.connections": [],
+    "workbench.iconTheme": "vscode-icons",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[erb]": {
+        "editor.defaultFormatter": "aliariff.vscode-erb-beautify"
+    },
+    "editor.formatOnSave": true,
+    "git.enableCommitSigning": true,
+    "svelte.enable-ts-plugin": true,
+    "window.zoomLevel": 1
+}
