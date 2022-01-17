@@ -3,7 +3,7 @@
         "suppressGitMissingWarning": true
     },
     "git.autofetch": true,
-    "workbench.colorTheme": "🏴 blackbird → dusk",
+    "workbench.colorTheme": "Gruvbox Dark Hard",
     "files.exclude": {
         "**/.classpath": true,
         "**/.project": true,
