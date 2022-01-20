@@ -3,7 +3,7 @@
         "suppressGitMissingWarning": true
     },
     "git.autofetch": true,
-    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "workbench.colorTheme": "Gruvbox Dark Soft",
     "files.exclude": {
         "**/.classpath": true,
         "**/.project": true,
@@ -21,12 +21,12 @@
     "editor.formatOnSave": true,
     "git.enableCommitSigning": true,
     "svelte.enable-ts-plugin": true,
-    "window.zoomLevel": 1,
     "security.workspace.trust.untrustedFiles": "open",
     "[scss]": {
         "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
     },
     "scssFormatter.singleQuote": true,
     "css.validate": false,
-    "tailwindCSS.emmetCompletions": true
+    "tailwindCSS.emmetCompletions": true,
+    "window.zoomLevel": 1
 }
