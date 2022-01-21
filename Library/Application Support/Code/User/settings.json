@@ -18,6 +18,9 @@
     "[erb]": {
         "editor.defaultFormatter": "aliariff.vscode-erb-beautify"
     },
+    "files.associations": {
+		"*.erb": "html"
+	},
     "editor.formatOnSave": true,
     "git.enableCommitSigning": true,
     "svelte.enable-ts-plugin": true,
