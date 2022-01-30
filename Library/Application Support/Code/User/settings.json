@@ -1,35 +1,35 @@
 {
-    "gitlens.advanced.messages": {
-        "suppressGitMissingWarning": true
-    },
-    "git.autofetch": true,
-    "workbench.colorTheme": "Gruvbox Dark Soft",
-    "files.exclude": {
-        "**/.classpath": true,
-        "**/.project": true,
-        "**/.settings": true,
-        "**/.factorypath": true
-    },
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "sqltools.connections": [],
-    "workbench.iconTheme": "vscode-icons",
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "[erb]": {
-        "editor.defaultFormatter": "aliariff.vscode-erb-beautify"
-    },
-    "files.associations": {
-		"*.erb": "html"
-	},
-    "editor.formatOnSave": true,
-    "git.enableCommitSigning": true,
-    "svelte.enable-ts-plugin": true,
-    "security.workspace.trust.untrustedFiles": "open",
-    "[scss]": {
-        "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
-    },
-    "scssFormatter.singleQuote": true,
-    "css.validate": false,
-    "tailwindCSS.emmetCompletions": true,
-    "window.zoomLevel": 1
+  "gitlens.advanced.messages": {
+    "suppressGitMissingWarning": true
+  },
+  "git.autofetch": true,
+  "workbench.colorTheme": "🏴 blackbird → dusk",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "sqltools.connections": [],
+  "workbench.iconTheme": "vscode-icons",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[erb]": {
+    "editor.defaultFormatter": "aliariff.vscode-erb-beautify"
+  },
+  "editor.formatOnSave": true,
+  "git.enableCommitSigning": true,
+  "svelte.enable-ts-plugin": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "[scss]": {
+    "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+  },
+  "scssFormatter.singleQuote": true,
+  "css.validate": false,
+  "tailwindCSS.emmetCompletions": true,
+  "editor.codeLensFontFamily": "Victor Mono",
+  "editor.fontFamily": "Victor Mono, Menlo, Monaco, 'Courier New', monospace",
+  "window.zoomLevel": 1,
+  "editor.inlineSuggest.enabled": true
 }
