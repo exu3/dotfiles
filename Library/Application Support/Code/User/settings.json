@@ -1,35 +1,52 @@
 {
-  "gitlens.advanced.messages": {
-    "suppressGitMissingWarning": true
-  },
-  "git.autofetch": true,
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "scssFormatter.singleQuote": true,
+  "editor.codeLensFontFamily": "Victor Mono",
   "workbench.colorTheme": "🏴 blackbird → dusk",
+  "editor.accessibilitySupport": "off",
+  "svelte.enable-ts-plugin": true,
+  "css.validate": false,
+  "workbench.iconTheme": "vscode-icons",
   "files.exclude": {
-    "**/.classpath": true,
     "**/.project": true,
     "**/.settings": true,
+    "**/.classpath": true,
     "**/.factorypath": true
   },
-  "editor.suggestSelection": "first",
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "sqltools.connections": [],
-  "workbench.iconTheme": "vscode-icons",
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "git.autofetch": true,
   "[erb]": {
     "editor.defaultFormatter": "aliariff.vscode-erb-beautify"
   },
-  "editor.formatOnSave": true,
-  "git.enableCommitSigning": true,
-  "svelte.enable-ts-plugin": true,
-  "security.workspace.trust.untrustedFiles": "open",
+  // "files.associations": {
+  //   "*.erb": "html"
+  // },
   "[scss]": {
     "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
   },
-  "scssFormatter.singleQuote": true,
-  "css.validate": false,
-  "tailwindCSS.emmetCompletions": true,
-  "editor.codeLensFontFamily": "Victor Mono",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.fontFamily": "Victor Mono, Menlo, Monaco, 'Courier New', monospace",
+  "sqltools.connections": [],
+  "gitlens.advanced.messages": {
+    "suppressGitMissingWarning": true
+  },
+  "editor.suggestSelection": "first",
+  "git.enableCommitSigning": true,
+  "editor.inlineSuggest.enabled": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "tailwindCSS.emmetCompletions": true,
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.formatOnSave": true,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
   "window.zoomLevel": 1,
-  "editor.inlineSuggest.enabled": true
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": true
+  }
 }
