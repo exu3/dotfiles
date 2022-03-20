@@ -6,7 +6,6 @@
   "editor.accessibilitySupport": "off",
   "svelte.enable-ts-plugin": true,
   "css.validate": false,
-  "workbench.iconTheme": "vscode-icons",
   "files.exclude": {
     "**/.project": true,
     "**/.settings": true,
@@ -49,5 +48,7 @@
     "plaintext": false,
     "markdown": true
   },
-  "githubPullRequests.fileListLayout": "flat"
+  "githubPullRequests.fileListLayout": "flat",
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "vscode-great-icons"
 }
