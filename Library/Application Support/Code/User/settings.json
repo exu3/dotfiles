@@ -2,7 +2,6 @@
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "scssFormatter.singleQuote": true,
   "editor.codeLensFontFamily": "Victor Mono",
-  "workbench.colorTheme": "🏴 blackbird → dusk",
   "editor.accessibilitySupport": "off",
   "svelte.enable-ts-plugin": true,
   "css.validate": false,
@@ -50,5 +49,10 @@
   },
   "githubPullRequests.fileListLayout": "flat",
   "workbench.startupEditor": "none",
-  "workbench.iconTheme": "vscode-great-icons"
+  "github.codespaces.showPerformanceExplorer": true,
+  "git.enableSmartCommit": true,
+  "workbench.colorTheme": "Gruvbox Dark Medium",
+  "workbench.iconTheme": "vscode-great-icons",
+  "remote.SSH.defaultExtensions": ["gitpod.gitpod-remote-ssh"],
+  "remote.SSH.configFile": "/var/folders/d4/h_3qq8gj29g96wsk1c58hb4m0000gn/T/gitpod_ssh_config-74429-YrEmaR908Xq4"
 }
